@@ -1,0 +1,16 @@
+﻿<Window x:Class="Cooking.Payement_refuse"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cooking"
+        mc:Ignorable="d"
+        Title="Payement_refuse" Height="450" Width="800">
+    <Grid>
+        <Label Content="Payement refusé" HorizontalAlignment="Left" Height="65" Margin="240,71,0,0" VerticalAlignment="Top" Width="282" FontSize="30"/>
+        <Button x:Name="boutton_revenir_commande" Content="Commander autre chose" HorizontalAlignment="Left" Height="60" Margin="63,194,0,0" VerticalAlignment="Top" Width="298" FontSize="25" Click="boutton_revenir_commande_Click"/>
+        <Button x:Name="boutton_deconnexion_2" Content="Déconnexion" HorizontalAlignment="Left" Height="76" Margin="423,289,0,0" VerticalAlignment="Top" Width="311" FontSize="25" Click="boutton_deconnexion_2_Click"/>
+        <ComboBox HorizontalAlignment="Left" Margin="590,194,0,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

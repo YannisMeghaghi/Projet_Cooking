@@ -1,0 +1,118 @@
+C:\Users\yanni\Desktop\Cooking\bin\Debug\Cooking.exe.config
+C:\Users\yanni\Desktop\Cooking\bin\Debug\Cooking.exe
+C:\Users\yanni\Desktop\Cooking\bin\Debug\Cooking.pdb
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Cooking.csprojAssemblyReference.cache
+C:\Users\yanni\Desktop\Cooking\obj\Debug\CdR_gestion.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Client_normal_gestion.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Connexion.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\MainWindow.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Nouvellee_recette.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\passage_de_commande.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Payement_accpete.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Payement_refuse.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\App.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Cooking_MarkupCompile.cache
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Cooking_MarkupCompile.lref
+C:\Users\yanni\Desktop\Cooking\obj\Debug\MainWindow.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\CdR_gestion.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Client_normal_gestion.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Connexion.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Nouvellee_recette.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\passage_de_commande.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Payement_accpete.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Payement_refuse.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Cooking.g.resources
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Cooking.Properties.Resources.resources
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Cooking.csproj.GenerateResource.cache
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Cooking.exe
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Cooking.pdb
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Compte.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Inscription.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Compte.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Inscription.baml
+C:\Users\yanni\Desktop\Cooking\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yanni\Desktop\Cooking\bin\Debug\Google.Protobuf.dll
+C:\Users\yanni\Desktop\Cooking\bin\Debug\MySql.Data.dll
+C:\Users\yanni\Desktop\Cooking\bin\Debug\Renci.SshNet.dll
+C:\Users\yanni\Desktop\Cooking\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\yanni\Desktop\Cooking\bin\Debug\Google.Protobuf.xml
+C:\Users\yanni\Desktop\Cooking\bin\Debug\MySql.Data.xml
+C:\Users\yanni\Desktop\Cooking\bin\Debug\Renci.SshNet.xml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Cooking.csproj.CopyComplete
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Fenetre_Test.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Fenetre_Test.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Compte_cdr.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Compte_cdr.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Creation_recette.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Creation_recette.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Stocks.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Stocks.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\MesRecettes.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\MesRecettes.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Classement.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Classement.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Infos_recette.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Infos_recette.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Demo1.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Demo1.baml
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Demo2.g.cs
+C:\Users\yanni\Desktop\Cooking\obj\Debug\Demo2.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Cooking.csprojAssemblyReference.cache
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\CdR_gestion.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Classement.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Client_normal_gestion.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Compte.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Compte_cdr.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Connexion.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Creation_recette.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Demo1.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Demo2.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Fenetre_Test.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Infos_recette.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Inscription.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\MainWindow.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\MesRecettes.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Nouvellee_recette.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\passage_de_commande.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Payement_accpete.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Payement_refuse.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Stocks.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\App.g.cs
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Cooking_MarkupCompile.cache
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Cooking_MarkupCompile.lref
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Cooking.exe
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Cooking.pdb
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\Cooking.exe.config
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\Cooking.exe
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\Cooking.pdb
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\Google.Protobuf.dll
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\MySql.Data.dll
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\Renci.SshNet.dll
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\Google.Protobuf.xml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\MySql.Data.xml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\bin\Debug\Renci.SshNet.xml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\CdR_gestion.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Classement.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Client_normal_gestion.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Compte.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Compte_cdr.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Connexion.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Creation_recette.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Demo1.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Demo2.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Fenetre_Test.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Infos_recette.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Inscription.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\MainWindow.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\MesRecettes.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Nouvellee_recette.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\passage_de_commande.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Payement_accpete.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Payement_refuse.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Stocks.baml
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Cooking.g.resources
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Cooking.Properties.Resources.resources
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Cooking.csproj.GenerateResource.cache
+C:\Users\yanni\Desktop\Projets Info\Projets Python\Cooking\obj\Debug\Cooking.csproj.CopyComplete

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Cooking.Infos_recette"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cooking"
+        mc:Ignorable="d"
+        Title="Infos_recette" Height="450" Width="800">
+    <Grid>
+        <Label Content="Informations" HorizontalAlignment="Left" Height="66" Margin="285,10,0,0" VerticalAlignment="Top" Width="226" FontSize="35"/>
+        <TextBlock x:Name="textblock_infos" HorizontalAlignment="Left" Height="278" Margin="41,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="307"/>
+        <TextBlock x:Name="textblock_recup__recette" HorizontalAlignment="Left" Height="263" Margin="-148,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="113"/>
+
+    </Grid>
+</Window>

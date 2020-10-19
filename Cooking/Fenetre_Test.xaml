@@ -1,0 +1,13 @@
+﻿<Window x:Class="Cooking.Fenetre_Test"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cooking"
+        mc:Ignorable="d"
+        Title="Fenetre_Test" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="textblock_test" HorizontalAlignment="Left" Height="360" Margin="95,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="588"/>
+
+    </Grid>
+</Window>

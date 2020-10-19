@@ -1,0 +1,19 @@
+﻿<Window x:Class="Cooking.Demo2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cooking"
+        mc:Ignorable="d"
+        Title="Demo2" Height="450" Width="800">
+    <Grid>
+        <Label Content="Produits : qté actu &lt;= 2* qté mini :" HorizontalAlignment="Left" Height="58" Margin="10,70,0,0" VerticalAlignment="Top" Width="304" FontSize="18"/>
+        <TextBlock x:Name="textblock_produit" HorizontalAlignment="Left" Height="166" Margin="351,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" FontSize="18"/>
+        <TextBox x:Name="textbox_recherche" HorizontalAlignment="Left" Height="29" Margin="580,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158"/>
+        <Button Content="Rechercher" HorizontalAlignment="Left" Height="34" Margin="580,128,0,0" VerticalAlignment="Top" Width="158" FontSize="18" Click="Button_Click"/>
+        <Label Content="Ce produit apparaît dans :" HorizontalAlignment="Left" Height="45" Margin="10,236,0,0" VerticalAlignment="Top" Width="223" FontSize="18"/>
+        <TextBlock x:Name="textblock_recette" HorizontalAlignment="Left" Height="174" Margin="314,209,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130" FontSize="18"/>
+        <TextBlock x:Name="textblock_qte" HorizontalAlignment="Left" Height="174" Margin="444,209,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="60" FontSize="18"/>
+
+    </Grid>
+</Window>
